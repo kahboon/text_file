@@ -1,2 +1,2 @@
-# text_file
-text_repo
+# test_file
+test_repo
